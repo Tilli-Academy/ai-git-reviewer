@@ -1,0 +1,20 @@
+# See CLAUDE.md §8 / §12
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment / secrets
+.env
+
+# Node / React / Vite (frontend)
+node_modules/
+dist/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
