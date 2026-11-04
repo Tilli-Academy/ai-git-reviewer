@@ -1,0 +1,10 @@
+# Backend dependencies — AI-Powered GitHub PR Reviewer (FastAPI MVP)
+# See CLAUDE.md §10. Install: python -m pip install -r backend/requirements.txt
+
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+python-dotenv
+groq
+pytest
